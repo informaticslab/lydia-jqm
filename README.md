@@ -5,7 +5,7 @@ STD Guidelines app will provide the 2014 STD Guidelines on iOS and Android smart
 The current CDC STD Guide available at: http://www.cdc.gov/std/treatment/2010/default.htm
 
 ## Goals
-To develop and share a useful app to save and use the CDC STD Guidelines on Android and iOS.
+To develop and share a useful app that provides access to the CDC STD Guidelines on Android and iOS.
 
 ## Requirements
 * iOS 7.0
