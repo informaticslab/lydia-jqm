@@ -1,0 +1,16 @@
+mobile/platforms/android/bin/
+mobile/platforms/android/gen/
+mobile/platforms/android/builds/
+mobile/platforms/android/assets/www/common/
+mobile/platforms/android/CordovaLib/ant-build/
+mobile/platforms/ios/StdGuide.xcodeproj/
+mobile/platforms/ios/StdGuide3/www/common/
+python/epub2jqm/.idea/
+python/epub2jqm/page/
+python/epub2jqm/temp/
+python/epub2jqm/conditions/
+python/pymetrics/
+www/common/shirley.bbprojectd
+www/common/.idea
+
+
